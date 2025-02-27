@@ -299,6 +299,11 @@
 }
 
 
+.footer_link {
+    display: flex;
+    gap: 30px;
+}
+
 .footer_link > a {
     color: #434343;
     font-family: Ubuntu;
